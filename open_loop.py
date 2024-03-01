@@ -14,8 +14,6 @@ import vehicle as veh
 
 #Track and vehicle files are located in the respective python scripts
 
-# Jacob's test
-
 def simulate():
     # Maximum speed curve
     v_max = np.zeros(tr.n, dtype=np.float32)
